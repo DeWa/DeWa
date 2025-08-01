@@ -61,6 +61,7 @@ for parties / events.
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?logo=Raspberry-Pi)
 ![Affinity Photo](https://img.shields.io/badge/affinityphoto-%237E4DD2.svg?logo=affinity-photo&logoColor=white)
 ![Electronics](https://img.shields.io/badge/Electronics-45049a)
+![Autodesk Fusion](https://img.shields.io/badge/Autodesk_Fusion-ff6c04?logo=autodesk&logoColor=fff)
 
 ---
 
